@@ -11,7 +11,7 @@
 
 ### 🌱 Education  
 🔹 **Master of Science in Software Engineering Systems** from [**Northeastern University**](https://www.northeastern.edu/) (Sep 2022 - May 2024)  
-🔹 **Bachelor of Technology in Electrical Engineering** from [**COEP Technological University**](https://www.coep.org.in/) (Jul 2015 - May 2018)   
+🔹 **Bachelor of Technology in Electronics and Telecommunication Engineering** from [**COEP Technological University**](https://www.coep.org.in/) (Jul 2015 - May 2018)   
 
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamt24&label=Profile%20views&color=0e75b6&style=flat" alt="shivamt24" /> </p> -->
 
