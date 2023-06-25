@@ -13,8 +13,6 @@
 🔹 **Master of Science in Software Engineering Systems** from [**Northeastern University**](https://www.northeastern.edu/) (Sep 2022 - May 2024)  
 🔹 **Bachelor of Technology in ECE Engineering** from [**COEP Technological University**](https://www.coep.org.in/) (Jul 2015 - May 2018)   
 
- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamt24&label=Profile%20views&color=0e75b6&style=flat" alt="shivamt24" /> </p> -->
-
 <div>
   <a href="https://github.com/shivamt24">
 
@@ -45,7 +43,7 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamt24&label=Profile%20views&color=0e75b6&style=flat" alt="shivamt24" /> </p>
 ## 🧰 Tools and Technologies:
 <p align="left">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
