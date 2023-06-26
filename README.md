@@ -1,4 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)   -->
+<meta name="google-site-verification" content="bN8OApHplbRn5ojBXLEQJqGoBOcpcunRrcSmlWpQYPo" />  
 # Shivam Thabe
 
 ### Howdy!👋
